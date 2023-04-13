@@ -2,16 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/axios/t12" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/express/auth" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/express/search" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/express/session" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react/appi_1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react/appi_2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react2/t1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react2/t2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react2/t3" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/react2/t4" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/reactdom/t11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/axios/t12" vcs="" />
+    <mapping directory="$PROJECT_DIR$/express/auth" vcs="" />
+    <mapping directory="$PROJECT_DIR$/express/search" vcs="" />
+    <mapping directory="$PROJECT_DIR$/express/session" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react/appi_1" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react/appi_2" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react2/t1" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react2/t2" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react2/t3" vcs="" />
+    <mapping directory="$PROJECT_DIR$/react2/t4" vcs="" />
+    <mapping directory="$PROJECT_DIR$/reactdom/t11" vcs="" />
   </component>
 </project>
