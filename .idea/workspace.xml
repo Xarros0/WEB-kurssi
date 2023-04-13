@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f44cb508-7d92-4223-9e9d-3e535399a780" name="Changes" comment="toivottavasti toimii">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/WEB-kurssi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axios/.idea/axios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/axios/t12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/.idea/express.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/auth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/search" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/express/session" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/.idea/react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/appi_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/appi_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/.idea/react2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/t1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/t2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/t3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/t4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/t4/src/data/berlin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactdom/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactdom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactdom/.idea/reactdom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactdom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactdom/t11" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/axios/t12" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OMWUUoiu0DB1jPflSGDCfLwHfW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WEB-kurssi/express/auth/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WEB-kurssi\express\auth\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WEB-kurssi\express\auth\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f44cb508-7d92-4223-9e9d-3e535399a780" name="Changes" comment="" />
+      <created>1681370946659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681370946659</updated>
+      <workItem from="1681370947821" duration="87000" />
+      <workItem from="1681371201296" duration="2687000" />
+      <workItem from="1681374241121" duration="604000" />
+    </task>
+    <task id="LOCAL−00001" summary="toivottavasti toimii">
+      <created>1681374548008</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1681374548008</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="toivottavasti toimii" />
+    <option name="LAST_COMMIT_MESSAGE" value="toivottavasti toimii" />
+  </component>
+</project>
